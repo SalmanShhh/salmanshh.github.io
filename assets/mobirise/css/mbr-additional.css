@@ -573,32 +573,6 @@ blockquote {
 .mbr-form .input-group-btn button[type="submit"]:hover {
   box-shadow: 0 10px 40px 0 rgba(0, 0, 0, 0.2);
 }
-.form2 .form-control {
-  border-top-left-radius: 100px;
-  border-bottom-left-radius: 100px;
-}
-.form2 .input-group-btn a.btn {
-  border-top-left-radius: 0 !important;
-  border-bottom-left-radius: 0 !important;
-}
-.form2 .input-group-btn button[type="submit"] {
-  border-top-left-radius: 0 !important;
-  border-bottom-left-radius: 0 !important;
-}
-.form3 input[type="email"] {
-  border-radius: 100px !important;
-}
-@media (max-width: 349px) {
-  .form2 input[type="email"] {
-    border-radius: 100px !important;
-  }
-  .form2 .input-group-btn a.btn {
-    border-radius: 100px !important;
-  }
-  .form2 .input-group-btn button[type="submit"] {
-    border-radius: 100px !important;
-  }
-}
 @media (max-width: 767px) {
   .btn {
     font-size: .75rem !important;
@@ -2233,18 +2207,21 @@ section.lazy-placeholder:after {
 .cid-s6sos77Oie H3 {
   color: #ffffff;
 }
-.cid-s6s1m7AR64 {
-  padding-top: 120px;
-  padding-bottom: 135px;
+.cid-s9rY9OHkth {
+  padding-top: 90px;
+  padding-bottom: 90px;
 }
-.cid-s6s1m7AR64 H1 {
+.cid-s9rY9OHkth P {
+  color: #767676;
+}
+.cid-s9rY9OHkth H1 {
   color: #ffffff;
 }
-.cid-s6s1m7AR64 H3 {
+.cid-s9rY9OHkth .mbr-text,
+.cid-s9rY9OHkth .mbr-section-btn {
   color: #ffffff;
 }
-.cid-s6s1m7AR64 .mbr-text,
-.cid-s6s1m7AR64 .mbr-section-btn {
+.cid-s9rY9OHkth H3 {
   color: #ffffff;
 }
 .cid-s6s9dxydfT {
@@ -2265,23 +2242,6 @@ section.lazy-placeholder:after {
 .cid-s6s9dxydfT H3 {
   color: #ffffff;
 }
-.cid-s9rY9OHkth {
-  padding-top: 90px;
-  padding-bottom: 90px;
-}
-.cid-s9rY9OHkth P {
-  color: #767676;
-}
-.cid-s9rY9OHkth H1 {
-  color: #ffffff;
-}
-.cid-s9rY9OHkth .mbr-text,
-.cid-s9rY9OHkth .mbr-section-btn {
-  color: #ffffff;
-}
-.cid-s9rY9OHkth H3 {
-  color: #ffffff;
-}
 .cid-s9rYQmgeAw {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -2298,6 +2258,27 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-s9rYQmgeAw H3 {
+  color: #ffffff;
+}
+.cid-s6s1m7AR64 {
+  padding-top: 120px;
+  padding-bottom: 135px;
+}
+.cid-s6s1m7AR64 H1 {
+  color: #ffffff;
+}
+.cid-s6s1m7AR64 H3 {
+  color: #ffffff;
+}
+.cid-s6s1m7AR64 .mbr-text,
+.cid-s6s1m7AR64 .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-sqNwyMCe9F {
+  padding-top: 75px;
+  padding-bottom: 75px;
+}
+.cid-sqNwyMCe9F H1 {
   color: #ffffff;
 }
 .cid-s6s23jWdZm {
